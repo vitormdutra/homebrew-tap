@@ -1,6 +1,6 @@
 cask "own-terminal" do
-  version "1.5.2"
-  sha256 "e44a23814373ddc942e92ceea6a02b5ef3f2414df04bd96cd9b11ed65d733e2c"
+  version "1.5.3"
+  sha256 "48da02ee379b50becf6ac2e6366e987910adee23e02292ce1d2346ae3b42154a"
 
   url "https://github.com/vitormdutra/own-terminal/releases/download/v#{version}/OwnTerminal-macos-apple-silicon.zip"
   name "own-terminal"
